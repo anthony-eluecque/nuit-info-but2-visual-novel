@@ -1,7 +1,7 @@
-# ** Nuit de l'info-BUT2 **
+# Nuit de l'info-BUT2
 Site visant à éduquer les jeunes sur les IST au travers d'un visual Novel 
 
-# ** Projet Réalisé par **
+# Projet Réalisé par
     - ELUECQUE Anthony : VUEJS + CSS 
     - LOVERGNE Alex : VUEJS + CSS
     - CORRION Gauthier : VUEJS + CSS
